@@ -36,7 +36,7 @@
 ## 📫 Contato
 
   [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dudufeltre@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-feltre-053408356?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B95yenMR6QuuqjFXxCxr4JQ%3D%3D)
 
 </div>
 
